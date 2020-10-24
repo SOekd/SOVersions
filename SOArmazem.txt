@@ -1,1 +1,1 @@
-1.62--https://bit.ly/3jPNcKx
+2.0-SNAPSHOT--https://github.com/SOekd/SOArmazem/releases/
