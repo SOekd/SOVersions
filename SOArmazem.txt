@@ -1,1 +1,1 @@
-2.1-SNAPSHOT--https://github.com/SOekd/SOArmazem/releases/
+2.1.1-SNAPSHOT--https://github.com/SOekd/SOArmazem/releases/
