@@ -1,4 +1,4 @@
-1.0-BETA--https://dl.dropbox.com
+1.0-TESTE--https://dl.dropbox.com
 Teste1
 Teste2
 Teste3
