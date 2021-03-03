@@ -1,4 +1,4 @@
-1.0-TESTE
+1.0-BETA
 Teste1
 Teste2
 Teste3
